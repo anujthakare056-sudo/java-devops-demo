@@ -1,8 +1,5 @@
 public class App {
-    public static void main(String[] args) throws Exception {
-        while(true){
-            System.out.println("Hello DevOps Engineers!");
-            Thread.sleep(100);
-        }
+    public static void main(String[] args) {
+        System.out.println("Hello DevOps Engineers!");
     }
 }
